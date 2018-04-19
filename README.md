@@ -3,6 +3,7 @@
 Wake Forest Visual Experimentation Software
 Travis Meyer
 Christos Constantinidis
+https://www.sciencedirect.com/science/article/pii/S0165027004002535
 
 
 1. DESCRIPTION OF FILES 
