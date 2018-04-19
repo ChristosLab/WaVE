@@ -1,8 +1,11 @@
 # WaVE
 
 Wake Forest Visual Experimentation Software
+
 Travis Meyer & Christos Constantinidis
+
 Journal of Neuroscience Methods, 2005
+
 https://www.sciencedirect.com/science/article/pii/S0165027004002535
 
 
