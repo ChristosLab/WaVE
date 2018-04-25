@@ -2,10 +2,7 @@
 
 Wake Forest Visual Experimentation Software
 
-Travis Meyer & Christos Constantinidis
-
-Journal of Neuroscience Methods, 2005
-
+This repository documents the Wake Forest Visual Experimentation Software as developed by Travis Meyer & Christos Constantinidis and documented in the Journal of Neuroscience Methods, 2005
 https://www.sciencedirect.com/science/article/pii/S0165027004002535
 
 
